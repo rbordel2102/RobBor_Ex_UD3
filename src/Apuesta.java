@@ -2,7 +2,7 @@
 import javax.swing.DefaultListModel;
 import javax.swing.JDialog;
 
-//Añadir comentarios JavaDoc en Apuesta.java
+//Ejercicio 3 - Añadir comentarios JavaDoc en Apuesta.java
 
 /*
  * To change this license header, choose License Headers in Project Properties.
